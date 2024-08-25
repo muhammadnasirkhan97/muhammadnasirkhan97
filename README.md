@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Muhammad Nasir Khan! 👋
 
-<!--
-**muhammadnasirkhan97/muhammadnasirkhan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here’s a little bit about me and the things I’m working on:
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently focused on building backend applications using Node.js and Express, and exploring database technologies like MongoDB and mySQL. I’m also interested in understanding server-side architectures and improving my skills in API development and deployment.
+- 🌱 I’m currently learning about GenAI, Web3 technologies, and the Metaverse to stay at the forefront of emerging tech trends.
+- 👯 I’m looking to collaborate on web development projects involving modern frontend frameworks like React, and backend technologies such as Node.js and Express. I’m also interested in working on full-stack applications and integrating third-party APIs.
+- 🤔 I’m looking for help with optimizing performance for large-scale web applications and best practices for managing state in React applications. I’d also appreciate guidance on advanced CSS techniques and responsive design principles.
+-💬 Ask me about web development best practices, building responsive and accessible websites, and using JavaScript frameworks like React. I’m also knowledgeable about server-side development with Node.js and database management with MongoDB.
+- 📫 How to reach me: [Email me](khanmuhammadnasir9977@gmail.com)
+- ⚡ Fun fact: I love experimenting with new web technologies and once built a fully interactive website using only CSS animations and JavaScript.
+
+## 🔧 Technologies & Tools
+
+🔧 Technologies & Tools
+Here are some of the technologies and tools I use:
+
+Languages:
+
+HTML
+CSS
+JavaScript
+TypeScript
+SQL
+NoSQL
+
+Frameworks:
+
+React
+Express
+Next.js
+Bootstrap
+Tailwind CSS
+Tools:
+
+Visual Studio Code
+Sublime Text
+Git
+& GitHub
+npm
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammadnasirkhan97) - Connect with me on LinkedIn!
+- [Portfolio](https://www.muhammadnasirkhan.com/) - Check out my portfolio!
+
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
