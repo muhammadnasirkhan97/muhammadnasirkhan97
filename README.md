@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🌱 I’m currently learning about GenAI, Web3 technologies, and the Metaverse to stay at the forefront of emerging tech trends.
 - 👯 I’m looking to collaborate on web development projects involving modern frontend frameworks like React, and backend technologies such as Node.js and Express. I’m also interested in working on full-stack applications and integrating third-party APIs.
 - 🤔 I’m looking for help with optimizing performance for large-scale web applications and best practices for managing state in React applications. I’d also appreciate guidance on advanced CSS techniques and responsive design principles.
--💬 Ask me about web development best practices, building responsive and accessible websites, and using JavaScript frameworks like React. I’m also knowledgeable about server-side development with Node.js and database management with MongoDB.
+- 💬 Ask me about web development best practices, building responsive and accessible websites, and using JavaScript frameworks like React. I’m also knowledgeable about server-side development with Node.js and database management with MongoDB.
 - 📫 How to reach me: [Email me](khanmuhammadnasir9977@gmail.com)
 - ⚡ Fun fact: I love experimenting with new web technologies and once built a fully interactive website using only CSS animations and JavaScript.
 
