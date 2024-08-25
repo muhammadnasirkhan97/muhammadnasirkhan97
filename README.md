@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-I see what you mean now—you're looking for icons next to each technology and tool listed in your README. Here's how you can incorporate icons for each technology and tool, formatted with the same style you’ve been using:
-
----
-
-## 🔧 Technologies & Tools
-
 Here are some of the technologies and tools I use:
 
 - **Languages**:
